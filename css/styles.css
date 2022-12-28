@@ -1,0 +1,31 @@
+/*Author: Bilawal
+*/
+
+body {
+    font-family: Arial, sans-serif;
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	background-color: #ADD8E6;
+  }
+
+  .box {
+    width: 300px;
+    padding: 1em;
+    border: 5px solid #87CEEB;
+    border-radius: 5px;
+	margin: 0 auto;
+  }
+
+  form label {
+	display: block;
+	margin-bottom: 0.5em;
+  }
+  
+  form input {
+	width: 60%;
+	padding: 0.5em;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin-bottom: 0.5em;
+  }
